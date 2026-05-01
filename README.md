@@ -1,123 +1,87 @@
-<h1 align="center">Hi 👋, I'm Trương Đông Duy</h1>
-<h3 align="center">Developer | AI + IoT Enthusiast | Web Builder</h3>
+<h1 align="center">Hi, I'm Trương Đông Duy</h1>
+<h3 align="center">Developer focused on AI, IoT, embedded systems, and full-stack web applications.</h3>
 
 <p align="center">
   <a href="https://github.com/duytruongdong1808-maker">
-    <img src="https://komarev.com/ghpvc/?username=duytruongdong1808-maker&label=Profile%20views&color=0e75b6&style=flat" alt="duytruongdong1808-maker" />
+    <img src="https://komarev.com/ghpvc/?username=duytruongdong1808-maker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://manchester-united-players-hub.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Project-Manchester%20United%20Players%20Hub-DA291C?style=flat&logo=vercel&logoColor=white" alt="Manchester United Players Hub" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 I'm **Trương Đông Duy**
-- 🚀 Interested in **AI, IoT, Embedded Systems, and Full-Stack Web Development**
-- 🤖 Currently building projects around **smart systems**, especially:
-  - **Smart Traffic Light**
-  - **Smart Parking Dashboard**
-  - **Manchester United Players Hub**
-- 🌱 Exploring **backend architecture, system design, and AI integration**
-- ⚡ I enjoy turning ideas into practical systems that solve real problems
+I'm a developer who enjoys turning practical ideas into working systems. My focus is on software that connects web experiences, data, and real-world applications through AI, IoT, and embedded systems.
+
+- Building smart-system projects around traffic control, parking management, and data-driven dashboards.
+- Exploring backend architecture, database design, system design, and AI integration.
+- Improving my repositories with cleaner structure, stronger documentation, and more production-ready code.
+- Interested in projects that solve real problems and can grow beyond a prototype.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-222222?style=for-the-badge&logo=c&logoColor=white)
-
-### Tools & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🚦 Smart Traffic Light
-AI-based traffic light system that can support smarter signal control based on traffic conditions.
-
-**Highlights**
-- Vehicle-aware traffic ideas
-- Embedded/IoT-oriented implementation
-- Practical smart-city project direction
-
-### 🅿️ Smart Parking Dashboard
-A smart parking project focused on monitoring and managing parking spaces more efficiently.
-
-**Highlights**
-- Parking management dashboard
-- Real-time monitoring direction
-- Scalable for smart campus / smart building use cases
-
-### ⚽ Manchester United Players Hub
-A football-focused web application for exploring Manchester United player information.
-
-**Live demo:** [manchester-united-players-hub.vercel.app](https://manchester-united-players-hub.vercel.app/)
-
-**Highlights**
-- Frontend + backend development
-- Data-driven UI
-- Sports information platform idea
-
----
-
-## 📂 Recent Repositories
-
-- [Assignment-1---Implement-non-blocking-HTTP-server-and-chat-application](https://github.com/duytruongdong1808-maker/Assignment-1---Implement-non-blocking-HTTP-server-and-chat-application)
-- [COMPUTER_NETWORK_LAB_1C](https://github.com/duytruongdong1808-maker/COMPUTER_NETWORK_LAB_1C)
-- [GGMU-2](https://github.com/duytruongdong1808-maker/GGMU-2)
-- [GGMU](https://github.com/duytruongdong1808-maker/GGMU)
-- [Calender](https://github.com/duytruongdong1808-maker/Calender)
-- [SMART_PARKING_DASHBOARD](https://github.com/duytruongdong1808-maker/SMART_PARKING_DASHBOARD)
-- [SMART_TRAFFIC_LIGHT](https://github.com/duytruongdong1808-maker/SMART_TRAFFIC_LIGHT)
-
----
-
-## 📈 GitHub Stats
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duytruongdong1808-maker&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-222222?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duytruongdong1808-maker&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## Featured Projects
+
+| Project | What it focuses on | Why it matters |
+| --- | --- | --- |
+| [Smart Traffic Light](https://github.com/duytruongdong1808-maker/SMART_TRAFFIC_LIGHT) | AI-assisted traffic signal control and embedded/IoT logic. | Supports smarter traffic flow ideas for practical smart-city scenarios. |
+| [Smart Parking Dashboard](https://github.com/duytruongdong1808-maker/SMART_PARKING_DASHBOARD) | Parking-space monitoring, dashboard views, and real-time system direction. | Helps make parking management easier for campuses, buildings, and shared spaces. |
+| [Manchester United Players Hub](https://manchester-united-players-hub.vercel.app/) | A football-focused web app for exploring Manchester United player information. | Combines frontend, backend, and data-driven UI into a live web product. |
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=duytruongdong1808-maker&theme=tokyonight" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=duytruongdong1808-maker&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duytruongdong1808-maker&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=duytruongdong1808-maker&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- Building more complete **AI + IoT applications**
-- Improving **backend and database skills**
-- Creating practical projects with strong real-world value
-- Growing my GitHub with cleaner and more production-ready repositories
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [@duytruongdong1808-maker](https://github.com/duytruongdong1808-maker)
-- Website: [manchester-united-players-hub.vercel.app](https://manchester-united-players-hub.vercel.app/)
+- Building more complete AI + IoT applications with cleaner architecture.
+- Strengthening backend, database, and full-stack development skills.
+- Turning smart-system ideas into reliable, well-documented projects.
+- Growing as a developer through consistent practice and practical work.
 
 ---
 
-## ⭐ Motto
+## Connect
 
-> Learn deeply. Build practically. Improve continuously.
+<p align="center">
+  <a href="https://github.com/duytruongdong1808-maker">GitHub</a> ·
+  <a href="https://manchester-united-players-hub.vercel.app/">Live Project</a>
+</p>
+
+<p align="center">
+  <strong>Learn deeply. Build practically. Improve continuously.</strong>
+</p>
