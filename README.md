@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Trương Đông Duy</h1>
-<h3 align="center">Developer focused on AI, IoT, embedded systems, and full-stack web applications.</h3>
+<h3 align="center">Developer building full-stack web apps, AI/model workflows, and embedded/IoT systems.</h3>
 
 <p align="center">
   <a href="https://github.com/duytruongdong1808-maker">
@@ -14,10 +14,10 @@
 
 ## About Me
 
-I'm a developer who enjoys turning practical ideas into working systems. My focus is on software that connects web experiences, data, and real-world applications through AI, IoT, and embedded systems.
+I'm a developer who enjoys turning practical ideas into working systems across web, AI, and embedded/IoT. My projects range from full-stack TypeScript apps and AI tooling to ESP32/STM32 labs, networking, and system-level experiments.
 
-- Building smart-system projects around traffic control, parking management, and data-driven dashboards.
-- Exploring backend architecture, database design, system design, and AI integration.
+- Building smart-system projects around traffic control, parking management, real-time data flows, and dashboards.
+- Exploring backend architecture, database design, system design, model workflows, and AI integration.
 - Improving my repositories with cleaner structure, stronger documentation, and more production-ready code.
 - Interested in projects that solve real problems and can grow beyond a prototype.
 
@@ -47,9 +47,9 @@ I'm a developer who enjoys turning practical ideas into working systems. My focu
 
 | Project | What it focuses on | Why it matters |
 | --- | --- | --- |
-| [Smart Traffic Light](https://github.com/duytruongdong1808-maker/SMART_TRAFFIC_LIGHT) | AI-assisted traffic signal control and embedded/IoT logic. | Supports smarter traffic flow ideas for practical smart-city scenarios. |
+| [Smart Traffic Light](https://github.com/duytruongdong1808-maker/SMART_TRAFFIC_LIGHT) | ESP32-based traffic light control with sensors, MQTT, LCD output, and embedded/IoT logic. | Supports practical smart-city experiments with real hardware-oriented components. |
 | [Smart Parking Dashboard](https://github.com/duytruongdong1808-maker/SMART_PARKING_DASHBOARD) | Parking-space monitoring, dashboard views, and real-time system direction. | Helps make parking management easier for campuses, buildings, and shared spaces. |
-| [Manchester United Players Hub](https://manchester-united-players-hub.vercel.app/) | A football-focused web app for exploring Manchester United player information. | Combines frontend, backend, and data-driven UI into a live web product. |
+| [Manchester United Players Hub](https://manchester-united-players-hub.vercel.app/) | A full-stack TypeScript web app for exploring Manchester United player information and recognition workflows. | Combines frontend, backend, domain modeling, and data-driven UI into a live web product. |
 
 ---
 
@@ -68,8 +68,8 @@ I'm a developer who enjoys turning practical ideas into working systems. My focu
 
 ## Current Focus
 
-- Building more complete AI + IoT applications with cleaner architecture.
-- Strengthening backend, database, and full-stack development skills.
+- Building more complete full-stack, AI, and IoT applications with cleaner architecture.
+- Strengthening backend, database, networking, and system-design skills.
 - Turning smart-system ideas into reliable, well-documented projects.
 - Growing as a developer through consistent practice and practical work.
 
